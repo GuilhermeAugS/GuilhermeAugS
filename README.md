@@ -17,7 +17,7 @@
 </div>
 	
 ##
-<div><br>
+<div>
   <h6>Frameworks: </h6>
   <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
@@ -26,13 +26,13 @@
 </div>
 	
 ##
-<div><br>
+<div>
   <h6>Database: </h6>
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 	
 ##
-<div><br>
+<div>
   <h6>IDE: </h6>
   <img align="center" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
