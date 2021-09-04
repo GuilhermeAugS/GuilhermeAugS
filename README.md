@@ -49,7 +49,7 @@
   <a href="https://discord.gg/pfdKy7BaMe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a>
   <a href="https://www.facebook.com/guilhermekosglade/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"</a>
   <a href="https://www.instagram.com/guilhermeasil/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>
-   <a href="www.linkedin.com/in/guilherme-augusto-silva-5179741aa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
+   <a href="https://www.linkedin.com/in/guilherme-augusto-silva-5179741aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
 <div>
   
   ![Snake animation](https://github.com/guilhermeaugs/guilhermeaugs/blob/output/github-contribution-grid-snake.svg)
