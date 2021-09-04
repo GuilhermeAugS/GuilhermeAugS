@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Testes
 - 🌱 Estudando mais sobre Java e testes
-<div>
+<div style="display: inline_block">
 	<a href="https://github.com/guilhermeaugs">
   	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeaugs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&locale=pt-br"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeaugs&layout=compact&langs_count=168&theme=github_dark&locale=pt-br"/>
